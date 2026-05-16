@@ -1,4 +1,4 @@
-## ARYA BARIQ - 103072400132 - IF0405
+## ARYA BARIQ IRAWAN - 103072400132 - IF0405
 # MODUL 5 : UDP
 ## UDP
 UDP (User Datagram Protocol) adalah salah satu protokol pada layer transport dalam model TCP/IP yang digunakan untuk mengirimkan data tanpa koneksi (connectionless). Artinya, UDP tidak melakukan proses pembentukan koneksi terlebih dahulu sebelum mengirim data.
